@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\CSharp OOP Lab Encapsulation\04. First and Reserve Team\bin\Debug\netcoreapp3.1\04. First and Reserve Team.exe
+C:\Users\User\source\repos\CSharp OOP Lab Encapsulation\04. First and Reserve Team\bin\Debug\netcoreapp3.1\04. First and Reserve Team.deps.json
+C:\Users\User\source\repos\CSharp OOP Lab Encapsulation\04. First and Reserve Team\bin\Debug\netcoreapp3.1\04. First and Reserve Team.runtimeconfig.json
+C:\Users\User\source\repos\CSharp OOP Lab Encapsulation\04. First and Reserve Team\bin\Debug\netcoreapp3.1\04. First and Reserve Team.runtimeconfig.dev.json
+C:\Users\User\source\repos\CSharp OOP Lab Encapsulation\04. First and Reserve Team\bin\Debug\netcoreapp3.1\04. First and Reserve Team.dll
+C:\Users\User\source\repos\CSharp OOP Lab Encapsulation\04. First and Reserve Team\bin\Debug\netcoreapp3.1\04. First and Reserve Team.pdb
+C:\Users\User\source\repos\CSharp OOP Lab Encapsulation\04. First and Reserve Team\obj\Debug\netcoreapp3.1\04. First and Reserve Team.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp OOP Lab Encapsulation\04. First and Reserve Team\obj\Debug\netcoreapp3.1\04. First and Reserve Team.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp OOP Lab Encapsulation\04. First and Reserve Team\obj\Debug\netcoreapp3.1\04. First and Reserve Team.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp OOP Lab Encapsulation\04. First and Reserve Team\obj\Debug\netcoreapp3.1\04. First and Reserve Team.dll
+C:\Users\User\source\repos\CSharp OOP Lab Encapsulation\04. First and Reserve Team\obj\Debug\netcoreapp3.1\04. First and Reserve Team.pdb
+C:\Users\User\source\repos\CSharp OOP Lab Encapsulation\04. First and Reserve Team\obj\Debug\netcoreapp3.1\04. First and Reserve Team.genruntimeconfig.cache
