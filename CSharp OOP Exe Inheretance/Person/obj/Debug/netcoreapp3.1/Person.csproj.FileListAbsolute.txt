@@ -11,3 +11,16 @@ C:\Users\User\source\repos\CSharp OOP Exe Inheretance\Person\bin\Debug\netcoreap
 C:\Users\User\source\repos\CSharp OOP Exe Inheretance\Person\obj\Debug\netcoreapp3.1\Person.dll
 C:\Users\User\source\repos\CSharp OOP Exe Inheretance\Person\obj\Debug\netcoreapp3.1\Person.pdb
 C:\Users\User\source\repos\CSharp OOP Exe Inheretance\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Softuni-OOP\CSharp OOP Exe Inheretance\Person\bin\Debug\netcoreapp3.1\Person.exe
+C:\Users\User\Documents\GitHub\Softuni-OOP\CSharp OOP Exe Inheretance\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+C:\Users\User\Documents\GitHub\Softuni-OOP\CSharp OOP Exe Inheretance\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Softuni-OOP\CSharp OOP Exe Inheretance\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Softuni-OOP\CSharp OOP Exe Inheretance\Person\bin\Debug\netcoreapp3.1\Person.dll
+C:\Users\User\Documents\GitHub\Softuni-OOP\CSharp OOP Exe Inheretance\Person\bin\Debug\netcoreapp3.1\Person.pdb
+C:\Users\User\Documents\GitHub\Softuni-OOP\CSharp OOP Exe Inheretance\Person\obj\Debug\netcoreapp3.1\Person.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Softuni-OOP\CSharp OOP Exe Inheretance\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Softuni-OOP\CSharp OOP Exe Inheretance\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Softuni-OOP\CSharp OOP Exe Inheretance\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Softuni-OOP\CSharp OOP Exe Inheretance\Person\obj\Debug\netcoreapp3.1\Person.dll
+C:\Users\User\Documents\GitHub\Softuni-OOP\CSharp OOP Exe Inheretance\Person\obj\Debug\netcoreapp3.1\Person.pdb
+C:\Users\User\Documents\GitHub\Softuni-OOP\CSharp OOP Exe Inheretance\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache

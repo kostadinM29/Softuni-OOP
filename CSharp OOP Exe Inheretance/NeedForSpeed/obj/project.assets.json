@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp OOP Exe Inheretance\\NeedForSpeed\\NeedForSpeed.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Inheretance\\NeedForSpeed\\NeedForSpeed.csproj",
       "projectName": "NeedForSpeed",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Exe Inheretance\\NeedForSpeed\\NeedForSpeed.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Inheretance\\NeedForSpeed\\NeedForSpeed.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Exe Inheretance\\NeedForSpeed\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Inheretance\\NeedForSpeed\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
