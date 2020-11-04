@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp OOP Exe Encapsulation\\04. Pizza Calories\\PizzaCalories.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Encapsulation\\04. Pizza Calories\\PizzaCalories.csproj",
       "projectName": "PizzaCalories",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Exe Encapsulation\\04. Pizza Calories\\PizzaCalories.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Encapsulation\\04. Pizza Calories\\PizzaCalories.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Exe Encapsulation\\04. Pizza Calories\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Encapsulation\\04. Pizza Calories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

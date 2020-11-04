@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp OOP Exe Encapsulation\\05. Football Manager\\FootballTeamGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Encapsulation\\05. Football Manager\\FootballTeamGenerator.csproj",
       "projectName": "FootballTeamGenerator",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Exe Encapsulation\\05. Football Manager\\FootballTeamGenerator.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Encapsulation\\05. Football Manager\\FootballTeamGenerator.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Exe Encapsulation\\05. Football Manager\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Encapsulation\\05. Football Manager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

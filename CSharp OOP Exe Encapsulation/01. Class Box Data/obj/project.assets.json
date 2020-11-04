@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp OOP Exe Encapsulation\\01. Class Box Data\\ClassBoxData.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Encapsulation\\01. Class Box Data\\ClassBoxData.csproj",
       "projectName": "ClassBoxData",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Exe Encapsulation\\01. Class Box Data\\ClassBoxData.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Encapsulation\\01. Class Box Data\\ClassBoxData.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Exe Encapsulation\\01. Class Box Data\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Encapsulation\\01. Class Box Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

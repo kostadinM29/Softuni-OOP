@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp OOP Exe Encapsulation\\ShoppingSpree\\ShoppingSpree.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Encapsulation\\03. ShoppingSpree\\ShoppingSpree.csproj",
       "projectName": "ShoppingSpree",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Exe Encapsulation\\ShoppingSpree\\ShoppingSpree.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Encapsulation\\03. ShoppingSpree\\ShoppingSpree.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Exe Encapsulation\\ShoppingSpree\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Encapsulation\\03. ShoppingSpree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
