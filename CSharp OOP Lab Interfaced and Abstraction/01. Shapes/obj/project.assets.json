@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Interfaced and Abstraction\\01. Shapes\\Shapes.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Interfaced and Abstraction\\01. Shapes\\Shapes.csproj",
       "projectName": "Shapes",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Interfaced and Abstraction\\01. Shapes\\Shapes.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Interfaced and Abstraction\\01. Shapes\\Shapes.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Interfaced and Abstraction\\01. Shapes\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Interfaced and Abstraction\\01. Shapes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

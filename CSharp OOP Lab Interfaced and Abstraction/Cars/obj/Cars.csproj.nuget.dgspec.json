@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Interfaced and Abstraction\\Cars\\Cars.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Interfaced and Abstraction\\Cars\\Cars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Interfaced and Abstraction\\Cars\\Cars.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Interfaced and Abstraction\\Cars\\Cars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Interfaced and Abstraction\\Cars\\Cars.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Interfaced and Abstraction\\Cars\\Cars.csproj",
         "projectName": "Cars",
-        "projectPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Interfaced and Abstraction\\Cars\\Cars.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Interfaced and Abstraction\\Cars\\Cars.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Interfaced and Abstraction\\Cars\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Interfaced and Abstraction\\Cars\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
