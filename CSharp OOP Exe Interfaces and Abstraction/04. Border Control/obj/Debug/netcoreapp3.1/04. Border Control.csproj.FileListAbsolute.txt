@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.exe
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.deps.json
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.runtimeconfig.json
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.runtimeconfig.dev.json
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.dll
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.pdb
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.dll
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.pdb
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.exe
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.deps.json
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.json
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.dev.json
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.genruntimeconfig.cache

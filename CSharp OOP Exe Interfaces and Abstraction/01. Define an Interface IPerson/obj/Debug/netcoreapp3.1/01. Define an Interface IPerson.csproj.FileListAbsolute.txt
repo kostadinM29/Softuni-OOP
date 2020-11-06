@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.exe
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.deps.json
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.runtimeconfig.json
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.runtimeconfig.dev.json
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.dll
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.pdb
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.dll
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.pdb
+C:\Users\User\source\repos\CSharp OOP Exe Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.genruntimeconfig.cache
