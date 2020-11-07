@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "01. MathOperation\Operations.csproj", "{C5A3EFB2-4A83-46C6-9E77-45633B6161B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{AFABBB96-E024-4AED-B551-A333A7CE9D4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{F8DA171F-27E3-492D-9695-87B197D10D46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5A3EFB2-4A83-46C6-9E77-45633B6161B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A3EFB2-4A83-46C6-9E77-45633B6161B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A3EFB2-4A83-46C6-9E77-45633B6161B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A3EFB2-4A83-46C6-9E77-45633B6161B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFABBB96-E024-4AED-B551-A333A7CE9D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFABBB96-E024-4AED-B551-A333A7CE9D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFABBB96-E024-4AED-B551-A333A7CE9D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFABBB96-E024-4AED-B551-A333A7CE9D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8DA171F-27E3-492D-9695-87B197D10D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8DA171F-27E3-492D-9695-87B197D10D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8DA171F-27E3-492D-9695-87B197D10D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8DA171F-27E3-492D-9695-87B197D10D46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A38743D6-EB49-4087-8731-DAC78C42613B}
+	EndGlobalSection
+EndGlobal
