@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X8/UTTE0ICuYct7uizMHbR0wMaWMHCccDn8ARuXgiZD4rbvc2qT7iOyGXEltTZMNqRVXoXQRohpRgjKA60ftBA==",
+  "dgSpecHash": "5EE4wwApccsA+7JiXLgB88uWZND07mHvsqxScR6ttvVKH6L2UkgEl4ya1lrcYy4Rp8+rlk7n/D5V4mu7Q/BQQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\CSharp Exe SOLID\\01. Logger\\01. Logger.csproj",
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe SOLID\\01. Logger\\01. Logger.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
