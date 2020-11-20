@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Csharp OOP Exe Reflection\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Csharp OOP Exe Reflection\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Csharp OOP Exe Reflection\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfo.cs
+C:\Users\User\Desktop\Csharp OOP Exe Reflection\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.CoreCompileInputs.cache
