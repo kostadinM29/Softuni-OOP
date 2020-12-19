@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\CSharp OOP Exe Unit Testing\\CarManager\\CarManager.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Unit Testing\\CarManager\\CarManager.csproj",
       "projectName": "CarManager",
-      "projectPath": "C:\\Users\\User\\Desktop\\CSharp OOP Exe Unit Testing\\CarManager\\CarManager.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Unit Testing\\CarManager\\CarManager.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\CSharp OOP Exe Unit Testing\\CarManager\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Unit Testing\\CarManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\01. Stealer\\01. Stealer.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\01. Stealer\\01. Stealer.csproj",
       "projectName": "01. Stealer",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\01. Stealer\\01. Stealer.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\01. Stealer\\01. Stealer.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\01. Stealer\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\01. Stealer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

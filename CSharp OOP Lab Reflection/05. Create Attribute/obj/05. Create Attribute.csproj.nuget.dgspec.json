@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\05. Create Attribute\\05. Create Attribute.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\05. Create Attribute\\05. Create Attribute.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\05. Create Attribute\\05. Create Attribute.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\05. Create Attribute\\05. Create Attribute.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\05. Create Attribute\\05. Create Attribute.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\05. Create Attribute\\05. Create Attribute.csproj",
         "projectName": "05. Create Attribute",
-        "projectPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\05. Create Attribute\\05. Create Attribute.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\05. Create Attribute\\05. Create Attribute.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\05. Create Attribute\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\05. Create Attribute\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

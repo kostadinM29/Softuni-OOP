@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\CSharp OOP Exe Unit Testing\\Database.Tests\\Database.Tests.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Unit Testing\\Database.Tests\\Database.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\CSharp OOP Exe Unit Testing\\Database.Tests\\Database.Tests.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Unit Testing\\Database.Tests\\Database.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\CSharp OOP Exe Unit Testing\\Database.Tests\\Database.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Unit Testing\\Database.Tests\\Database.Tests.csproj",
         "projectName": "Database.Tests",
-        "projectPath": "C:\\Users\\User\\Desktop\\CSharp OOP Exe Unit Testing\\Database.Tests\\Database.Tests.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Unit Testing\\Database.Tests\\Database.Tests.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\CSharp OOP Exe Unit Testing\\Database.Tests\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Unit Testing\\Database.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

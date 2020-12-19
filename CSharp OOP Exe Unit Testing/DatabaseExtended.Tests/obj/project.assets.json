@@ -6532,11 +6532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\CSharp OOP Exe Unit Testing\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Unit Testing\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj",
       "projectName": "DatabaseExtended.Tests",
-      "projectPath": "C:\\Users\\User\\Desktop\\CSharp OOP Exe Unit Testing\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Unit Testing\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\CSharp OOP Exe Unit Testing\\DatabaseExtended.Tests\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Unit Testing\\DatabaseExtended.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6556,8 +6556,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\CSharp OOP Exe Unit Testing\\DatabaseExtended\\DatabaseExtended.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\CSharp OOP Exe Unit Testing\\DatabaseExtended\\DatabaseExtended.csproj"
+            "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Unit Testing\\DatabaseExtended\\DatabaseExtended.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Unit Testing\\DatabaseExtended\\DatabaseExtended.csproj"
             }
           }
         }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\06. Tracker\\AuthorProblem.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\06. Tracker\\AuthorProblem.csproj",
       "projectName": "AuthorProblem",
-      "projectPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\06. Tracker\\AuthorProblem.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\06. Tracker\\AuthorProblem.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\06. Tracker\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\06. Tracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

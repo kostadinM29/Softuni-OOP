@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "45XRz5wDusLUUsstnChCiIIPHUm7nPUX3o3U63J5AnKpGAruBWgD35lrR7JfdLpq0yS1ZaMiJxRCYhAN69GYUw==",
+  "dgSpecHash": "F6NbWGIhyJRkpqJ7LH7cDK+SLbZtgTl6IiWie3+tIHWcsGTF2igt8uHy+T4Y+gYLoK2RrjXUyJwQPjWWowD9Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\CSharp OOP Exe Unit Testing\\CarManager\\CarManager.csproj",
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Exe Unit Testing\\CarManager\\CarManager.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

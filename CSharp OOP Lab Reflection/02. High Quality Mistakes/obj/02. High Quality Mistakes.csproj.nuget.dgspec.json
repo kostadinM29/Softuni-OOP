@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\02. High Quality Mistakes\\02. High Quality Mistakes.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\02. High Quality Mistakes\\02. High Quality Mistakes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\02. High Quality Mistakes\\02. High Quality Mistakes.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\02. High Quality Mistakes\\02. High Quality Mistakes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\02. High Quality Mistakes\\02. High Quality Mistakes.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\02. High Quality Mistakes\\02. High Quality Mistakes.csproj",
         "projectName": "02. High Quality Mistakes",
-        "projectPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\02. High Quality Mistakes\\02. High Quality Mistakes.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\02. High Quality Mistakes\\02. High Quality Mistakes.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\02. High Quality Mistakes\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\02. High Quality Mistakes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

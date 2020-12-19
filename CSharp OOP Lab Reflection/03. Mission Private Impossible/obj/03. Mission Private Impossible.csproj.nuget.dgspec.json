@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\03. Mission Private Impossible\\03. Mission Private Impossible.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\03. Mission Private Impossible\\03. Mission Private Impossible.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\03. Mission Private Impossible\\03. Mission Private Impossible.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\03. Mission Private Impossible\\03. Mission Private Impossible.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\03. Mission Private Impossible\\03. Mission Private Impossible.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\03. Mission Private Impossible\\03. Mission Private Impossible.csproj",
         "projectName": "03. Mission Private Impossible",
-        "projectPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\03. Mission Private Impossible\\03. Mission Private Impossible.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\03. Mission Private Impossible\\03. Mission Private Impossible.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\CSharp OOP Lab Reflection\\03. Mission Private Impossible\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Softuni-OOP\\CSharp OOP Lab Reflection\\03. Mission Private Impossible\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
